@@ -1,2 +1,0 @@
-# heqian
-/* work of heqian*/
